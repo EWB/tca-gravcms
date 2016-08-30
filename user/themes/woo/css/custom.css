@@ -1,0 +1,37 @@
+#header ul#nav li a {
+	color:#FFFFFF;
+}
+
+#content #hero {
+	background: #1275b2;
+	background-image: none;
+}
+/* Hero Text */
+.hero-text p {
+	color: #FFFFFF;
+   width: 83%;
+   text-align: center;
+   margin: 54px auto 24px auto;
+}
+.hero-text h1 {
+   font: 40px/1.2em 'montserrat-regular', sans-serif; 
+   color: #fff;
+   padding: 0;
+   margin: 0;
+   text-shadow: 0px 1px 4px rgba(0, 0, 0, .2);
+}
+#content #call-to-action {
+   background:#306294;
+}
+#content #call-to-action p {
+   color:#FFFFFF;
+}
+#content #call-to-action p span {
+    color: #e6cf4d;
+}
+#content #call-to-action .header-col h1:before {
+   display: none;
+}
+#content #subscribe p {
+    color: #FFFFFF;
+}    

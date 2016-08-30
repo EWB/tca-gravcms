@@ -1,0 +1,65 @@
+title: 'Tedra Cobb & Associates'
+author:
+  name: 'Tedra Cobb'
+  email: ewilliamsbergen@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Tedra L. Cobb and Associates is a dynamic consulting firm dedicated to providing organizations with reliable, consistent and up to date training programs and other professional and development services.  Our clients include government and private sector corporations, educational institutions and not-for-profit companies.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+email: your-email@domain.com
+description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
+social:
+  -
+    url: '#'
+    icon: facebook
+  -
+    url: '#'
+    icon: twitter
+  -
+    url: '#'
+    icon: google-plus
+menu:
+  -
+    text: Services
+    link: '#features'
+  -
+    text: Education
+    link: '#screenshots'
+  -
+    text: Outcomes
+    link: '#testimonials'
+  -
+    text: Subscribe
+    link: '#subscribe'
+footer:
+  text: 'Footer Text'
+  address:
+    title: ''
+    lines:
+      -
+        line: ''
+      -
+        line: ''
+      -
+        line: ''
+  social_title: Socialize
+  contact:
+    title: 'CONTACT US'
+    lines:
+      -
+        text: 647.343.8234
+        url: '#'
+      -
+        text: 123.456.7890
+        url: '#'
+      -
+        text: tedra@tedracobb.com
+        url: 'mailto:tedra@tedracobb.com'
